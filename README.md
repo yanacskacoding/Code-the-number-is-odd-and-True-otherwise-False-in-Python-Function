@@ -1,0 +1,1 @@
+# Code-the-number-is-odd-and-True-otherwise-False-in-Python-Function
